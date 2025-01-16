@@ -1,4 +1,6 @@
-## Hi there 👋
+## 2025--1-16  첫 시작 👋
+
+
 
 <!--
 **mhjw1119/mhjw1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
